@@ -1,0 +1,7 @@
+IE_XML_ID;IE_NAME;IE_ID;IE_ACTIVE;IE_ACTIVE_FROM;IE_ACTIVE_TO;IE_PREVIEW_PICTURE;IE_PREVIEW_TEXT;IE_PREVIEW_TEXT_TYPE;IE_DETAIL_PICTURE;IE_DETAIL_TEXT;IE_DETAIL_TEXT_TYPE;IE_CODE;IE_SORT;IE_TAGS;IC_GROUP0;IC_GROUP1;IC_GROUP2
+12;HELLO WORLD,;12;Y;;;;"<h2>i am <span>graphic & web designer</span></h2>
+<h2>from morocco</h2>";html;;;text;hello-world;1;;;;
+13;CONTENT HERE,;13;Y;;;;"<h2>Lorem <span>graphic &  designer</span></h2>
+<h2>Contrary</h2>";html;;;text;content-here;2;;;;
+14;LOREM IPSUM ,;14;Y;;;;"<h2>Contrary to <span>&  designer</span></h2>
+<h2>reproduced below</h2>";html;;;text;lorem-ipsum-;3;;;;
